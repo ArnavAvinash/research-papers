@@ -13,4 +13,12 @@ Origami, Trigonometry, Square tiling, Tree theory, Structural design
 
 [2]  Lang, R.J., 1996, May. A computational algorithm for origami design. In Proceedings of the twelfth annual symposium on Computational geometry (pp. 98-105).
 
-> Origami Simulator may be accessed at origamisimulator.org.
+> Origami Simulator may be accessed [here](origamisimulator.org).
+
+### Indexes 
+#### 
+This preprint has been indexed on [ResearchGate](https://www.researchgate.net/publication/408085405_A_Standardized_Framework_for_the_Number_of_Flaps_n_225-induced_Bird_Base_Compounds_Produce_when_Tiled_within_a_Square), Zenodo and [OpenAIRE](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.20861544).
+
+### Citation 
+#### 
+Avinash, A., 2026. A Standardized Framework for the Number of Flaps (n^2) 22.5°-induced Bird Base Compounds Produce when Tiled within a Square.
